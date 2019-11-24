@@ -3,3 +3,8 @@ Good Ranges
 Maximum Depth	
 Power of 3	
 Bob and Queries	
+Recover Binary Search Tree	
+Populate Next Right Pointers Tree	
+Mask Updates	
+Decrypt the map	
+Maximum Subtree	
